@@ -1,0 +1,17 @@
+{
+    "name": "yae/fizz-buzz",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Youness AIT EL HADJ",
+            "email": "mcyae96@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=7.4"
+    }
+}
